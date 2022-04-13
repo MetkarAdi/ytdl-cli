@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+* {
+     background-color: #36393F;
+     color: aliceblue;
+     font-family: montserrat, sans-serif;
+}
+
+.headerTitle {
+     text-align: center;
+     margin-top: 2rem;
+}
