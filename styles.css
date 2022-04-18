@@ -2,12 +2,28 @@
 
 /* Add styles here to customize the appearance of your app */
 * {
-     background-color: #36393F;
-     color: aliceblue;
+     /* background-color: white; */
      font-family: montserrat, sans-serif;
+     margin-top: 0;
+     margin-bottom: 0;
+     margin-right: 0;
+     margin-left: 0;
+     padding: 0 0 0 0;
 }
 
 .headerTitle {
      text-align: center;
-     margin-top: 2rem;
+     /* margin-top: 2rem; */
+}
+
+.headerText {
+     top: auto;
+}
+
+.navBar {
+     background-color: #f52e2e;
+     /* max-height: 4rem; */
+     height: 3rem;
+     /* margin-top: 1rem; */
+     color: white;
 }
